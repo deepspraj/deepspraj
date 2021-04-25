@@ -27,9 +27,9 @@
 
 - [Snake and Ladder Game](https://github.com/deepspraj/Snake-N-Ladder-Game) (updates)🐍
 
-- [Flappy Bird Game]()
+- [Flappy Bird Game](https://github.com/deepspraj/Flappy-Bird-Game) (updates)🐦
 
-- [Road Fighter Game]()
+- [Road Fighter Game]()🏎️
 
 ### 🛠 &nbsp;Languages and Tools
 
