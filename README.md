@@ -4,7 +4,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **Pygame and ML**.
+- 🌱 I’m currently learning **ML**.
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/deepspraj?tab=repositories).
 
