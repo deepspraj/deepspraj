@@ -4,8 +4,6 @@
 
 <br>
 
-- 🌱 I’m currently learning **ML**.
-
 - 👨‍💻 All of my projects are available at [github](https://github.com/deepspraj?tab=repositories).
 
 - 💬 Ask me about **C and Python**.
