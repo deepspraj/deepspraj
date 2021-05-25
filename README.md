@@ -4,18 +4,18 @@
 
 <br>
 
-- 🌱 I’m currently learning **ML**.
+- 🌱 I’m currently improving Python Skills.
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/deepspraj?tab=repositories).
 
-- 💬 Ask me about **C and Python**.
+- 💬 Ask me about **C** and **Python**.
 
 - 📫 How to reach me **deepprajapati01@gmail.com**.
 
 - ⚡ Fun fact: I am a **BE Mechanical Student**.
 
 
-### 💻 Mini Projects
+### 💻 &nbsp;Mini Projects
 
 - [IPL Score API](https://ipl-cricket-api.herokuapp.com/)
 
@@ -23,13 +23,13 @@
 
 - [Snake and Apple Game](https://github.com/deepspraj/Snake-Apple-Game)
 
-### ⏭️ Upcoming
+### ⏭️ &nbsp;Upcoming
 
 - [Snake and Ladder Game](https://github.com/deepspraj/Snake-N-Ladder-Game) (updates)🐍
 
 - [Flappy Bird Game](https://github.com/deepspraj/Flappy-Bird-Game) (updates)🐦
 
-- [Road Fighter Game]()🏎️
+- [Asteroid CryptoCurrency](https://github.com/deepspraj/Asteroid-Cryptocurrency) ₿
 
 ### 🛠 &nbsp;Languages and Tools
 
@@ -52,6 +52,6 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deepspraj&layout=compact&langs_count=8&theme=algolia"/>
 </p>
