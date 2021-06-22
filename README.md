@@ -25,10 +25,6 @@
 
 ### ⏭️ &nbsp;Upcoming
 
-- [Snake and Ladder Game](https://github.com/deepspraj/Snake-N-Ladder-Game) (updates)🐍
-
-- [Flappy Bird Game](https://github.com/deepspraj/Flappy-Bird-Game) (updates)🐦
-
 - [Asteroid CryptoCurrency](https://github.com/deepspraj/Asteroid-Cryptocurrency) ₿
 
 ### 🛠 &nbsp;Languages and Tools
