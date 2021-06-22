@@ -23,6 +23,10 @@
 
 - [Snake and Apple Game](https://github.com/deepspraj/Snake-Apple-Game)
 
+- [Flappy Bird Game](https://github.com/deepspraj/Flappy-Bird-Game)
+
+- [Bitcoin Vanity Address](https://github.com/deepspraj/Bitcoin-Vanity-Address)
+
 ### ⏭️ &nbsp;Upcoming
 
 - [Asteroid CryptoCurrency](https://github.com/deepspraj/Asteroid-Cryptocurrency) ₿
